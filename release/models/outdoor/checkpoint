@@ -1,0 +1,4 @@
+model_checkpoint_path: "models-latest-42000"
+all_model_checkpoint_paths: "models-latest-38000"
+all_model_checkpoint_paths: "models-latest-40000"
+all_model_checkpoint_paths: "models-latest-42000"
